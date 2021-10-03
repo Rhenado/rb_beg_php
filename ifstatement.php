@@ -38,5 +38,5 @@ include 'includes/header.php'; ?>
     <li><a href="index.php">Return to Home</a></li>
 </body>
 </html>--> 
-?>
+
     <?php  require 'includes/footer.php'; ?>

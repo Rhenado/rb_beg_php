@@ -60,5 +60,5 @@ include 'includes/header.php'; ?>
     <li><a href="index.php" style="text-decoration:none">Return to Home</a></li>
 </body>
 </html>--> 
-?>
+
     <?php  require 'includes/footer.php'; ?>

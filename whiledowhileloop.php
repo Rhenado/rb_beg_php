@@ -37,5 +37,5 @@ include 'includes/header.php'; ?>
     
 </body>
 </html>--> 
-?>
+
     <?php  require 'includes/footer.php'; ?>
