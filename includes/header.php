@@ -14,14 +14,14 @@
     <h2>Follow each link to the page example</h2>
     <ul class="nav">
     <li><a href="index.php">Home</a></li>
-       <li class="nav-item"><a href="array.php" class="nav-link">Simple Array and Printouts</a></li>
-       <li class="nav-item"><a href="forloop.php" class="nav-link">Simple For loop</a></li>
-       <li class="nav-item"><a href="whiledowhileloop.php" class="nav-link">Simple While / DoWhile Loop</a></li>
-       <li class="nav-item"><a href="ifstatement.php" class="nav-link">Simple If Statement</a></li>       
-       <li class="nav-item"><a href="switchstatement.php"class="nav-link">Simple Swicth Statement</a></li>
-       <li class="nav-item"><a href="stringmanip.php" class="nav-link">Simple String manipulation </a></li>
-       <li class="nav-item"><a href="datetimemanip.php" class="nav-link">Simple Date and Time manipulation </a></li>
-       <li class="nav-item"><a href="functions.php" class="nav-link">Simple User Defined Functions </a></li>
+       <li class="nav-item"><a href="array.php" class="nav-link">Array and Printouts</a></li>
+       <li class="nav-item"><a href="forloop.php" class="nav-link">For loop</a></li>
+       <li class="nav-item"><a href="whiledowhileloop.php" class="nav-link">While / DoWhile Loop</a></li>
+       <li class="nav-item"><a href="ifstatement.php" class="nav-link">If Statement</a></li>       
+       <li class="nav-item"><a href="switchstatement.php"class="nav-link">Swicth Statement</a></li>
+       <li class="nav-item"><a href="stringmanip.php" class="nav-link">String manipulation </a></li>
+       <li class="nav-item"><a href="datetimemanip.php" class="nav-link">Date and Time manipulation </a></li>
+       <li class="nav-item"><a href="functions.php" class="nav-link">User Defined Functions </a></li>
       
     </ul>
    
